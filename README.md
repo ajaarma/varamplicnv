@@ -1,5 +1,9 @@
 **varAmpliCNV**
 
+Please visit the docker image of varAmpliCNV at CMG, Antwerpen: https://hub.docker.com/r/cmgantwerpen/varamplicnv for recent version of varAmpliCNV.
+
+Current repositiory  is essentially a beta verion of the varAmpliCNV and the help pages are under construction.
+
 varAmpliCNV is both an online/off-line tool for CNV calling from amplicon based targeted resequencing (TR) data enriched via Haloplex technologies. The highlighting features of the tool are:
 
   - Assigns reads directly to the amplicon coordinates to prune out aspecific alignments
