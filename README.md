@@ -1,4 +1,4 @@
-**varAmpliCNV**
+*varAmpliCNV*
 
 varAmpliCNV is both an online/off-line tool for CNV calling from amplicon based targeted resequencing (TR) data enriched via Haloplex technologies. The highlighting features of the tool are:
 
