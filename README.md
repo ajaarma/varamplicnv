@@ -67,8 +67,5 @@ Example for processing BATCH\_1 of TAAD samples using amplicon overlap filtering
 $ /opt/software/R/R-3.2.1/bin/Rscript varAmpliCNV.R -i /home/shared_data_medgen_aorta/VCNV/TAAD/BATCH_1/MAT_RC/AmpCountMat.RData -o /home/shared_data_medgen_aorta/VCNV/TAAD/ -b /home/shared_data_medgen_aorta/VCNV/TAAD/BED/AmpRmSNPRmDup.bed -r /home/shared_data_medgen_aorta/VCNV/TAAD/BED/sortMergeROIGene.bed -c /home/shared_data_medgen_aorta/VCNV/TAAD/BED/GCContent.csv -s /home/shared_data_medgen_aorta/VCNV/TAAD/ALL_RUN_Sample_Gender.txt -a BATCH_1 -p 0.80 -n 1
 ```
 
-### Things To Do
-- Add little more documentation to the code/functions
-- Documentation explaining input file format types related to Amplicon design files.
 
 
